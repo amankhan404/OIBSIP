@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 232, 22);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container {
+    text-align: center;
+    align-items: c;
+    color: white;
+    background-color: black;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px 5px rgb(211, 183, 29);
+    width: fit-content;
+    padding: 5%;
+
+  }
+  
+  .mt-5 {
+    margin-top: 2rem;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .result {
+
+    color: rgb(255, 255, 255);
+    width: fit-content;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0.5rem;
+  }
+  
